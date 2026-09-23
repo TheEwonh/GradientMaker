@@ -16,6 +16,7 @@ Run the program with:
 
 ## Usage as a library
 ![import.py](https://cdn.discordapp.com/attachments/1531949987557146695/1552248352740085871/image.png?ex=6ab4eb6e&is=6ab399ee&hm=0fdb8eb86ae627a586ec021aa3b2130e057224e6927e41e08f089d4b695470b9&)
+
 Import GradientMaker into your code with:
 ```python
 import GradientMaker as gm
